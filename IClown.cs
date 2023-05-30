@@ -8,7 +8,7 @@ namespace First_meeting_with_interface
 {
     internal interface IClown
     {
-        string FunnyThinkIHave { get; }
+        string FunnyThingIHave { get; }
         void Honk();
     }
 }
